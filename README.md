@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-- 😎 I'm Biswajeet Behera.<br><br>- 🌱 I’m currently learning **Machine Learning and Data Analysis**<br><br>- 💬 Ask me about **React and Python.**<br><br>- 📫 How to reach me **biswajeet092003@gmail.com**<br>
+- 😎 I'm Biswajeet Behera.<br><br>- 🌱 I’m currently learning **Machine Learning, Data Analysis and Web Development**<br><br>- 💬 Ask me about **React and Python.**<br><br>- 📫 How to reach me **biswajeet092003@gmail.com**<br>
 
 
 ## 🌐 Socials:
