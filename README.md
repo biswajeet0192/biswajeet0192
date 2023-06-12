@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 - 😎 I'm Biswajeet Behera.<br><br>- 🌱 I’m currently learning **Machine Learning, Data Analysis and Web Development**<br><br>- 💬 Ask me about **React and Python.**<br><br>- 📫 How to reach me **biswajeet092003@gmail.com**<br>
-
+<img align="right" alt="Coding" width="400" src="[https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif](https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/biswajeetbehera0192) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/biswajeet-behera-ab914a229) 
