@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Deep Learning & Backend technologies.**
 
-- 👨‍💻 All of my projects are available at [biswajeetbehera.vercel.app](biswajeetbehera.vercel.app)
+- 👨‍💻 All of my projects are available at [biswajeetbehera.live](biswajeetbehera.live)
 
 - 💬 Ask me about **Web Development & Machine Learning**
 
